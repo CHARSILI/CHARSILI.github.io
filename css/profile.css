@@ -1,0 +1,62 @@
+.profile-pic {
+	max-width: 40%;
+}
+/* this is a comment am I cute */
+.card {
+	border: dotted #f44242 1px;
+	border-radius: 10px;
+	padding: 10px;
+	margin-bottom: 10px;
+	box-shadow: 10px 5px 30px #edb4cb;
+}
+
+.progress-bar {
+	border-radius: 5px;
+	background-color: #edb4cb; 
+}
+
+.navbar {
+  background: #91b6f2;
+}
+
+.navbar-brand {
+	color: #ffffff;
+	font-family: desdemona;
+}
+
+.nav-link {
+	color: #ffffff;
+	font-family: desdemona;
+}
+
+.card-title {
+	color: #91b6f2;
+	font-family: desdemona;
+}
+
+.card-text {
+	color: #91b6f2;
+	font-family: desdemona;
+}
+
+label {
+	color: #91b6f2;
+	font-family: desdemona;
+}
+
+.joke {
+	color: #ffffff;
+	font-family: desdemona;
+	font-weight: bold;
+}
+
+.description {
+	 background-image: url(https://s-media-cache-ak0.pinimg.com/736x/f6/ed/53/f6ed5366b961c8e960a4ac5b6ffdbb41.jpg);
+} 
+
+.card {
+	background-color: #ffffff; 
+}
+
+
+
